@@ -1,0 +1,66 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "css.validate": false,
+  "debug.allowBreakpointsEverywhere": true,
+  "editor.autoIndent": "full",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "JetBrains Mono, monospace",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "400",
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.letterSpacing": 0.5,
+  "editor.lineHeight": 1.5,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "explorer.compactFolders": false,
+  "extensions.ignoreRecommendations": false,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.idea": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "git.autorefresh": true,
+  "git.inputValidationLength": 96,
+  "git.inputValidationSubjectLength": 96,
+  "less.validate": false,
+  "scss.validate": false,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.defaultProfile.osx": "bash",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "window.closeWhenEmpty": true,
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.iconTheme": "vscode-icons"
+}
