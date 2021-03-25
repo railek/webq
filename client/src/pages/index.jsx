@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <Layout>
       <SEO title="Home" />
+      <h1>WebQ</h1>
     </Layout>
   );
 }
